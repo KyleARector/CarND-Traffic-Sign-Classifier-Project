@@ -78,7 +78,7 @@ My final model results were:
 
 Below are the 5 additional German traffic signs found on the web:
 
-!["Traffic Sign 1"](./additional-signs/1.jpg) !["Traffic Sign 2"](./additional-signs/4.jpg) !["Traffic Sign 3"](./additional-signs/10.jpg)
+!["Traffic Sign 1"](./additional-signs/1.jpg) !["Traffic Sign 2"](./additional-signs/4.jpg) !["Traffic Sign 3"](./additional-signs/9.jpg)
 !["Traffic Sign 4"](./additional-signs/14.jpg) !["Traffic Sign 5"](./additional-signs/22.jpg)
 
 #### Prediction Accuracy
