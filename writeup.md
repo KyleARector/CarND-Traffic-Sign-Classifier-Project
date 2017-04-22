@@ -7,12 +7,13 @@
 - Analyze the softmax probabilities of the new images
 - Summarize the results with a written report
 
-[image1]: writeup_data/data_viz.png "Visualization"
-[image2]: additional_signs/1.jpg "Traffic Sign 1"
-[image3]: additional_signs/4.jpg "Traffic Sign 2"
-[image4]: additional_signs/10.jpg "Traffic Sign 3"
-[image5]: additional_signs/14.jpg "Traffic Sign 4"
-[image6]: additional_signs/22.jpg "Traffic Sign 5"
+[//]: # (Image References)
+[image1]: ./writeup_data/data_viz.png "Visualization"
+[image2]: ./additional_signs/1.jpg "Traffic Sign 1"
+[image3]: ./additional_signs/4.jpg "Traffic Sign 2"
+[image4]: ./additional_signs/10.jpg "Traffic Sign 3"
+[image5]: ./additional_signs/14.jpg "Traffic Sign 4"
+[image6]: ./additional_signs/22.jpg "Traffic Sign 5"
 ---
 
 ### Dataset Vizualization and Summary
